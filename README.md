@@ -7,8 +7,7 @@ Monterey Institute for Research in Astronomy (MIRA).
 
 These notebooks have been developed using *Anaconda* and has been tested under OSX 10.15,
 Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
-*Visual Studio Code* IDE for development and have been in general quite pleased with it.
-It plays well with Anaconda and can correctly use the virtual python environment described below.
+*Visual Studio Code* IDE for development and Jupyter Notebook for interactive visualization.
 
 *NB:* As with any Python project there are a number of libraries that must be installed. Anaconda/conda greatly facilitates this process. This will be described more fully below:
 
