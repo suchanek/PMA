@@ -32,6 +32,8 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
     - Using the *environment.yml* spec file (alternative, from a shell prompt):
         - clone this repo into your working repository directory
         - cd into the resulting directory
+        - edit the *prefix* variable at the end of the environment.yaml file to reflect the correct
+        path for your anaconda environment created above. *this step is critically important!*
         - execute: *conda env create --file=environment.yaml*
 
 3. Use pip to install:
