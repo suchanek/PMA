@@ -12,33 +12,33 @@ It plays well with Anaconda and can correctly use the virtual python environment
 
 *NB:* As with any Python project there are a number of libraries that must be installed. Anaconda/conda greatly facilitates this process. This will be described more fully below:
 
-## Base Environment Installation
+## Virtual Environment Installation/Creation
 
 1. Install Anaconda (<http://anaconda.org>)
-    - create a new environment using python 3.7
-    - activate the environment
+    - Create a new environment using python 3.7
+    - Activate the environment
 
-2. Install VisualStudio Code (<https://code.visualstudio.com/download>)
-
-3. Build the environment:
-    - Install the folloowing libraries from within the environment created above:
+2. Build the environment (manually):
+    - Install the following libraries from within the environment created above:
         - astropy
         - astroquery
         - astroml
         - ipyvol
+        - pandas
         - plotly
         - plotly_express
         - scikit-learn
         - pip
 
-4. Use pip to install:
+3. Use pip to install:
     - ipyaladin
 
-5. Latest release
-    - the current master branch has the latest working release
+## Latest release
+
+The current master branch has the latest release
 
 ## Running the notebooks in Binder
 
-Click below to launch the Jupyter Notebook browser in *Binder*
+Click below to launch the Jupyter Notebook browser in Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suchanek/PMA.git/master)
