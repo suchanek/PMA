@@ -1,12 +1,14 @@
 # Introduction
 
-Python and Jupyter Notebook code for Astronomical analysis. Written by Eric G. Suchanek, Ph.D.
-in affiliation with the Monterey Institute for Research in Astronomy (MIRA).
+Jupyter notebooks for Astronomical analysis. Written by Eric G. Suchanek, Ph.D.,
+Monterey Institute for Research in Astronomy (MIRA).
 
 ## Getting Started
 
-This library has been developed using *Anaconda* and has been tested under OSX 10.15, Ubuntu 18.04, Windows 7 Professional
-and Windows 10. I have used Microsoft's *Visual Studio Code* IDE for development and have been in general quite pleased with it. It plays well with Anaconda and can correctly use the virtual python environment described below.
+These notebooks have been developed using *Anaconda* and has been tested under OSX 10.15,
+Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
+*Visual Studio Code* IDE for development and have been in general quite pleased with it.
+It plays well with Anaconda and can correctly use the virtual python environment described below.
 
 *NB:* As with any Python project there are a number of libraries that must be installed. Anaconda/conda greatly facilitates this process. This will be described more fully below:
 
