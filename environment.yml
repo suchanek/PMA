@@ -54,7 +54,7 @@ dependencies:
   - tqdm=4.32.1 
   - yaml=0.1.7
   - pip:
-    - ipyaladin=0.1.7
+    - ipyaladin==0.1.7
     - cdiff==1.0
     - chempy==0.7.9
     - cufflinks==0.8.2
