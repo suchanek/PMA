@@ -1,4 +1,4 @@
-name: mira
+name: PMA
 channels:
   - plotly
   - http://conda.anaconda.org/gabrielelanaro
@@ -82,5 +82,4 @@ dependencies:
     - quantities==0.12.3
     - sym==0.3.4
     - webbpsf==0.8.0
-prefix: /Users/suchanek/anaconda3/envs/mira
-
+prefix: /Users/suchanek/anaconda3/envs/PMA
