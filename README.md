@@ -17,22 +17,24 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
     - Create a new environment using python 3.7
     - Activate the environment
 
-2. Build the environment (manually):
-    - Install the following libraries from within the environment created above:
-        - astropy
-        - astroquery
-        - astroml
-        - ipyvol
-        - pandas
-        - plotly
-        - plotly_express
-        - scikit-learn
-        - pip
-3. Build the environment using the *environment.yml* spec file (alternative, from a shell prompt)
-    - clone this repo into your working repository directory
-    - cd into the resulting directory
-    - execute: *conda env create --file=environment.yaml*
-4. Use pip to install:
+2. Build the environment
+    - Manually:
+        - Install the following libraries from within the environment created above:
+            - astropy
+            - astroquery
+            - astroml
+            - ipyvol
+            - pandas
+            - plotly
+            - plotly_express
+            - scikit-learn
+            - pip
+    - Using the *environment.yml* spec file (alternative, from a shell prompt):
+        - clone this repo into your working repository directory
+        - cd into the resulting directory
+        - execute: *conda env create --file=environment.yaml*
+
+3. Use pip to install:
     - ipyaladin
 
 ## Latest release
