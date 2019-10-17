@@ -42,4 +42,4 @@ TODO: Describe and show how to build your code and run the tests.
 
 Click below to launch the repository
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suchanek/mirapy.git/working1014?urlpath=https%3A%2F%2Fgithub.com%2Fsuchanek%2Fmirapy%2Fblob%2FWorking1014%2FNAmerican%2FNGC7000_PM_Analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suchanek/PMA.git/master)
