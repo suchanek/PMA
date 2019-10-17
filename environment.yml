@@ -13,8 +13,6 @@ dependencies:
   - astroplan=0.5 
   - astropy=3.2.1 
   - astroquery=0.3.9
-  - atomicwrites=1.3.0
-  - intel-openmp=2019.4
   - ipyaladin=0.1.5
   - ipydatawidgets=4.0.1 
   - ipykernel=5.1.2
@@ -34,14 +32,8 @@ dependencies:
   - numpy=1.16.5
   - numpy-base=1.16.5
   - numpydoc=0.9.1 
-  - olefile=0.46 
-  - openpyxl=2.6.2 
-  - openssl=1.1.1c
-  - packaging=19.0 
   - pandas=0.25.1
   - pip=19.2.3 
-  - pkgconfig=1.3.1
-  - pkginfo=1.5.0.1 
   - plotly=4.0.0 
   - plotly_express=0.4.0 
   - progressbar2=3.43.1 
@@ -60,14 +52,6 @@ dependencies:
   - scikit-image=0.15.0
   - scikit-learn=0.21.3
   - scipy=1.3.1
-  - seaborn=0.9.0 
-  - semantic_version=2.6.0 
-  - spherical-geometry=1.2.17 
-  - tbb=2019.8
-  - tblib=1.4.0 
-  - terminado=0.8.2 
-  - testpath=0.4.2 
-  - tk=8.6.9
   - tqdm=4.32.1 
   - yaml=0.1.7
   - pip:
@@ -77,10 +61,4 @@ dependencies:
     - dot2tex==2.11.3
     - jupyterthemes==0.20.0
     - lesscpy==0.13.0
-    - pulp==1.6.10
-    - pyneqsys==0.5.6
-    - pyodesys==0.12.6
-    - quantities==0.12.3
-    - sym==0.3.4
-    - webbpsf==0.8.0
 prefix: /Users/suchanek/anaconda3/envs/PMA
