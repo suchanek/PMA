@@ -377,6 +377,7 @@ dependencies:
     - chempy==0.7.9
     - cufflinks==0.8.2
     - dot2tex==2.11.3
+    - ipyaladin==0.1.7
     - jupyterthemes==0.20.0
     - lesscpy==0.13.0
     - pulp==1.6.10
