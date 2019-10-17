@@ -13,7 +13,6 @@ dependencies:
   - astroplan=0.5 
   - astropy=3.2.1 
   - astroquery=0.3.9
-  - ipyaladin=0.1.5
   - ipydatawidgets=4.0.1 
   - ipykernel=5.1.2
   - ipyparallel=6.2.4 
@@ -55,6 +54,7 @@ dependencies:
   - tqdm=4.32.1 
   - yaml=0.1.7
   - pip:
+    - ipyaladin=0.1.7
     - cdiff==1.0
     - chempy==0.7.9
     - cufflinks==0.8.2
