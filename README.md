@@ -30,9 +30,9 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
             - scikit-learn
             - pip
     - Using the *environment.yml* spec file (alternative, from a shell prompt)
-            - clone this repo into your working repository directory
-            - cd into the resulting directory
-            - execute: *conda env create --file=environment.yaml*
+        - clone this repo into your working repository directory
+        - cd into the resulting directory
+        - execute: *conda env create --file=environment.yaml*
 
 3. Use pip to install:
     - ipyaladin
