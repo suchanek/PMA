@@ -18,7 +18,7 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
     - Activate the environment
 
 2. Build the environment
-    - Manually
+    - Manually:
         - Install the following libraries from within the environment created above:
             - astropy
             - astroquery
@@ -29,7 +29,7 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
             - plotly_express
             - scikit-learn
             - pip
-    - Using the *environment.yml* spec file (alternative, from a shell prompt)
+    - Using the *environment.yml* spec file (alternative, from a shell prompt):
         - clone this repo into your working repository directory
         - cd into the resulting directory
         - execute: *conda env create --file=environment.yaml*
