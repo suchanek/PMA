@@ -5,7 +5,7 @@ Monterey Institute for Research in Astronomy (MIRA).
 
 ## Getting Started
 
-These notebooks have been developed using *Anaconda* and has been tested under OSX 10.15,
+These notebooks have been developed and using *Anaconda* and have been tested under OSX 10.15,
 Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
 *Visual Studio Code* IDE for development and Jupyter Notebook for interactive visualization.
 
@@ -28,8 +28,11 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
         - plotly_express
         - scikit-learn
         - pip
-
-3. Use pip to install:
+3. Build the environment using the *environment.yml* spec file (alternative, from a shell prompt)
+    - clone this repo into your working repository directory
+    - cd into the resulting directory
+    - execute: *conda env create --file=environment.yaml*
+4. Use pip to install:
     - ipyaladin
 
 ## Latest release
