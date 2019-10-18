@@ -1,6 +1,5 @@
 name: binder
 channels:
-  - anaconda
   - plotly
   - astropy
   - stsci
@@ -8,6 +7,7 @@ channels:
   - http://ssb.stsci.edu/astroconda
   - tboch
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -87,9 +87,6 @@ dependencies:
   - jupyter_contrib_core=0.3.3=py_2
   - jupyter_core=4.4.0=py_0
   - jupyter_latex_envs=1.4.4=py36_1000
-  - jupyterlab=1.0.2=py36_0
-  - jupyterlab_code_formatter=0.5.0=py_0
-  - jupyterlab_server=1.0.6=py_0
   - keyring=19.2.0=py36_0
   - kiwisolver=1.1.0=py36hc9558a2_0
   - krb5=1.16.3=h05b26f9_1001
