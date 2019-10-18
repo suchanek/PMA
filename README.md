@@ -38,6 +38,9 @@ Ubuntu 18.04, Windows 7 Professional and Windows 10. I have used Microsoft's
 
 3. Use pip to install:
     - ipyaladin
+        - Enable the ipyaladin widget by executing the following commands from within your environment created above:
+            - jupyter nbextension install --py --symlink --sys-prefix ipyaladin
+            - jupyter nbextension enable --py --sys-prefix ipyaladin
 
 ## Latest release
 
