@@ -1,3 +1,5 @@
+pip install ipyaladin 
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension install --py --symlink --sys-prefix ipyaladin
 jupyter nbextension enable --py --sys-prefix ipyaladin
+pip install plotly_express --upgrade
