@@ -156,5 +156,4 @@ Thumbs.db
 *.FITS
 .vscode/*
 *.code-workspace
-
-env.yml~
+*.~
