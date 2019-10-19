@@ -1,7 +1,0 @@
-astropy
-astroquery
-plotly
-numpy
-pandas
-plotly_express
-scikit_learn

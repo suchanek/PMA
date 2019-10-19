@@ -1,1 +1,0 @@
-/home/suchanek/repos/Mira1/egs.py

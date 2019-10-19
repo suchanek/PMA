@@ -51,3 +51,4 @@ The current master branch has the latest release
 Click below to launch the Jupyter Notebook browser in Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suchanek/PMA.git/master)
+# PMA_Binder
